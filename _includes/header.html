@@ -1,0 +1,13 @@
+<!-- Header -->
+<header id="header" class="header container">
+    <a href="{{ '/' | relative_url }}" class="logo">{{ site.header.title }}</a>
+    {% if site.header.nav_links and site.header.has_nav %}
+    <nav>
+        {% for item in site.header.nav_links %}
+            {% assign pageUrl = page.url | trim: '/' %}
+            {% assign itemUrl = item.url | trim: '/' %}
+            <a class="nav-link{% if pageUrl == itemUrl %} active{% endif %}" href="{% assign expr_1 = item.url | starts_with: '#' %}{% if expr_1 %}{{ item.url }}{% else %}{{ item.url | relative_url }}{% endif %}"{% assign new_window_is_not_empty = item.new_window | is_not_empty %}{% if new_window_is_not_empty %} target="_blank" rel="noopener"{% endif %}>{{ item.label }}</a>
+        {% endfor %}
+    </nav>
+    {% endif %}
+</header>
