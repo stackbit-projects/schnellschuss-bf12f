@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: Schnellschuss
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: '### Short term or project dedicated private enviroments'
     image: images/avatar.png
   - title: Text
     section_id: intro
