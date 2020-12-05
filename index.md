@@ -10,11 +10,9 @@ sections:
     section_id: intro
     type: section_content
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla orci diam,
-      elementum consectetur elit non, tempus varius leo. In ut bibendum mauris.
-      Vestibulum mattis pharetra enim. Maecenas ornare vulputate nisi sed
-      condimentum. Fusce sit amet cursus nunc. Vivamus malesuada posuere mollis.
-      Aliquam facilisis neque eget ligula aliquam consequat.
+      *Schnellschuss* is creating powerful private enviroments for short term or
+      project dedicated use.
+
 
       ### This is an H3. Use it for subheads and subsections.
 
