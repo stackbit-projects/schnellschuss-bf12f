@@ -6,7 +6,7 @@ collections:
     permalink: '/posts/:title/'
 description: A vanilla theme for Stackbit
 header:
-  title: huidsfahisafd
+  title: Schnellschuss
   has_nav: true
   nav_links:
     - label: Home
