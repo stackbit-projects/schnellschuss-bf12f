@@ -11,6 +11,10 @@ header:
   nav_links:
     - label: Overview
       url: /
+    - label: lorem-ipsum
+      url: lorem-ipsum
+      new_window: false
+      type: action
 footer:
   content: '&copy; All rights reserved.'
   links:
