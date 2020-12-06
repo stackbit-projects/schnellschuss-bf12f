@@ -11,8 +11,6 @@ header:
   nav_links:
     - label: Overview
       url: /
-    - label: Elements
-      url: /elements/
     - label: Ipsum
       url: /ipsum/
 footer:
