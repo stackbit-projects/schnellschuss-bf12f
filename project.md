@@ -1,6 +1,6 @@
 ---
 title: Project
-excerpt: lorem-ipsum
+excerpt: Project Enviroments
 sections:
   - section_id: hero
     type: section_hero
