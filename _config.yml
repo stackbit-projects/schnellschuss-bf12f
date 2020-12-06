@@ -12,7 +12,7 @@ header:
     - label: Overview
       url: /
     - label: Disposable
-      url: lorem-ipsum
+      url: disposable
       new_window: false
       type: action
 footer:
