@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Disposable
 excerpt: lorem-ipsum
 sections:
   - section_id: hero
