@@ -4,7 +4,7 @@ permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
-description: A vanilla theme for Stackbit
+description: Schnellschuss
 header:
   title: Schnellschuss Cloud
   has_nav: true
