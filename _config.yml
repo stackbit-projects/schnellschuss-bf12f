@@ -18,7 +18,7 @@ header:
 footer:
   content: '&copy; All rights reserved.'
   links: []
-  has_social: true
+  has_social: false
   social_links:
     - label: Twitter
       url: 'https://twitter.com/'
