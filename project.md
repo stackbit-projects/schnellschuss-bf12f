@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: Schnellschuss
-    subtitle: '### Virtual enviroments at fingertips'
+    subtitle: '### Hosted enviroments at fingertips'
     image: images/avatar.png
   - title: Text
     section_id: intro
