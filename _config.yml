@@ -13,6 +13,10 @@ header:
       url: /
     - label: Ipsum
       url: /ipsum/
+    - label: lorem-ipsum
+      url: lorem-ipsum
+      new_window: false
+      type: action
 footer:
   content: '&copy; All rights reserved.'
   links:
