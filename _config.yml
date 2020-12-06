@@ -6,7 +6,7 @@ collections:
     permalink: '/posts/:title/'
 description: A vanilla theme for Stackbit
 header:
-  title: Schnellschuss Cloud
+  title: Schnellschuss Clou
   has_nav: true
   nav_links:
     - label: Overview
