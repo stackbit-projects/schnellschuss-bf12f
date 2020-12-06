@@ -11,7 +11,7 @@ header:
   nav_links:
     - label: Overview
       url: /
-    - label: lorem-ipsum
+    - label: Disposable
       url: lorem-ipsum
       new_window: false
       type: action
