@@ -9,7 +9,7 @@ header:
   title: Schnellschuss Cloud
   has_nav: true
   nav_links:
-    - label: Home
+    - label: Overview
       url: /
     - label: Elements
       url: /elements/
