@@ -11,8 +11,6 @@ header:
   nav_links:
     - label: Overview
       url: /
-    - label: Ipsum
-      url: /ipsum/
     - label: lorem-ipsum
       url: lorem-ipsum
       new_window: false
